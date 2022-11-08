@@ -30,31 +30,24 @@ git clone git@github.com:mandarnaik016/Pongy.git
 
 ## Usage
 
-1. Run the `Pongy.exe`.  <p align="center">
-<img alt="image_5" src="IMG/image_5.png" />
-</p>
+- Run the `Pongy.exe`.  
+<p align="center"><a href="IMG/image_5.png"><img alt="image_5" src="IMG/image_5.png" /></a></p>
 
-2. Enter the path of folder where PNG files are present e.g. `E:\github\new_pongy\IMG`. <p align="center">
-<img alt="image_6" src="IMG/image_6.png" />
-</p>
+- Enter the path of folder where PNG files are present e.g. `E:\github\new_pongy\IMG`. 
+<p align="center"><a href="IMG/image_6.png"><img alt="image_6" src="IMG/image_6.png" /></a></p>
 
-3. Click **COMPRESS** button. <p align="center">
-<img alt="image_7" src="IMG/image_7.png" />
-</p>
+- Click **COMPRESS** button. 
+<p align="center"><a href="IMG/image_7.png"><img alt="image_7" src="IMG/image_7.png" /></a></p>
 
-4. Have patience and :tea:. Wait for below popup which indicates files compressed. <p align="center">
-<img alt="image_8" src="IMG/image_8.png" />
-</p>
+- Have patience and :tea:. Wait for below popup which indicates files compressed. 
+<p align="center"><a href="IMG/image_8.png"><img alt="image_8" src="IMG/image_8.png" /></a></p>
 
-5. You can locate optimized PNGs in the DEST folder (Inside the same directory). <p align="center">
-<img alt="image_9" src="IMG/image_9.png" />
-</p>
+- You can locate optimized PNGs in the DEST folder (Inside the same directory). 
+<p align="center"><a href="IMG/image_9.png"><img alt="image_9" src="IMG/image_9.png" /></a></p>
 
 ## Result
 
-<p align="center">
-<img alt="result" src="IMG/result.png" />
-</p>
+<p align="center"><a href="IMG/result.png"><img alt="result" src="IMG/result.png" /></a></p>
 
 ## Author
 
